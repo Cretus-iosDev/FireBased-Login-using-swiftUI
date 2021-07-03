@@ -2,9 +2,13 @@
 
 
 1.user is getting registered 
+
 2.login successfully 
-3. If the user forget the password then it can be reset by sending password reset link.
+
+3. If the user forget the password then it can be reset by sending password reset link
+
 4.if the user entered wrong password gives alert .
+
 5. While registration password enter wrong gives 🚨 pop-up to enter correctly.
 
 
